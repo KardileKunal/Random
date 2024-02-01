@@ -32,25 +32,4 @@ let x='Hello JS'
 }
 console.log(x);
 
-console.log("I am Kunal learning git push");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log("I am Kunal learning git pull");
